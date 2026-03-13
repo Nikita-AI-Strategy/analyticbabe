@@ -34,3 +34,4 @@ Scalable Schema: Built within an OCI Playground environment to simulate enterpri
 Potency Monitoring: Designed to track the transition of ingredients from raw state to "simmer" status.
 
 Certification Alignment: This project applies the core principles of the OCI AI Foundation certification, specifically focusing on data structuring as a precursor to AI-driven inventory insights.
+ .
