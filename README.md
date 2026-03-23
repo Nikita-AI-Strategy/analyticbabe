@@ -34,4 +34,14 @@ Scalable Schema: Built within an OCI Playground environment to simulate enterpri
 Potency Monitoring: Designed to track the transition of ingredients from raw state to "simmer" status.
 
 Certification Alignment: This project applies the core principles of the OCI AI Foundation certification, specifically focusing on data structuring as a precursor to AI-driven inventory insights.
- .
+
+ 
+Project 4: Automated Data Integration & Verification
+
+Service: OCI Connector Hub (Object Storage to API Sync).
+
+Validation: Successfully verified a lifecycle sync of 55 records.
+
+Integrity: 1:1 ratio between "Bytes Written" and "Messages Written" validates zero data loss.
+
+Verification Asset: Refer to portfolio choice.png for metric validation.
