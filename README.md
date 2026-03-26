@@ -45,3 +45,24 @@ Validation: Successfully verified a lifecycle sync of 55 records.
 Integrity: 1:1 ratio between "Bytes Written" and "Messages Written" validates zero data loss.
 
 Verification Asset: Refer to portfolio choice.png for metric validation.
+
+
+# Project 5: The Alchemist’s Cloud
+## OCI AI Technical Validation & Proprietary Protocol Grounding
+
+### Executive Summary
+This project represents a "Strategic Tier" shift in technical consulting. Utilizing **Oracle Cloud Infrastructure (OCI)**, I have engineered a framework to validate high-risk botanical safety protocols for the **Vitality** wellness brand. This is a live demonstration of **Grounding AI Logic** without a vector database.
+
+### The Five Pillars of the "Bougie Protocol"
+- **Pillar 01: The Rosemary Exception** (4-Hour Active Window)
+- **Pillar 02: The Cold Shock Reset** (120-Minute Refrigerator Cycle @ 40°F/4°C)
+- **Pillar 03: The Second Cycle** (Secondary 4-Hour Simmer within 24 Hours)
+- **Pillar 04: The Thermal Override** (Extended Capacity via Temperature-Controlled Flask)
+- **Pillar 05: Final Disposition** (Absolute Discard Mandate)
+
+### Technical Framework: The "Catch 22" Logic
+This project utilizes **String Literal Encapsulation** to separate proprietary "Data Vaults" from AI instructional commands. This ensures 100% compliance during automated audits.
+
+### Compliance & Global Operations
+- **V1.0 Customs Declaration:** Optimized for Cali, Colombia export using **Citrus Sinensis (Orange Peel)** to mitigate agricultural risk.
+- **Multi-Vessel SOP:** Validated for Stovetop, Crock Pot, and future R&D hardware.
