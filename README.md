@@ -66,3 +66,20 @@ This project utilizes **String Literal Encapsulation** to separate proprietary "
 ### Compliance & Global Operations
 - **V1.0 Customs Declaration:** Optimized for Cali, Colombia export using **Citrus Sinensis (Orange Peel)** to mitigate agricultural risk.
 - **Multi-Vessel SOP:** Validated for Stovetop, Crock Pot, and future R&D hardware.
+
+
+### Project 5: Part Two (Environmental Diffusion SOP)
+**Product:** Vitality Simmer (72-Hour Cycle)
+
+#### Technical Ingredient Manifest:
+- Cymbopogon (Lemongrass)
+- Eucalyptus Globulus
+- Salvia Rosmarinus (Rosemary)
+- Cinnamomum Zeylanicum (Cinnamon)
+- Syzygium Aromaticum (Cloves)
+- Citrus Sinensis (Orange Peel)
+
+#### The 3-Day Operational Logic:
+1. **Day 01 Activation:** 4-hour active simmer window (Stovetop or Crock Pot).
+2. **Airtight Storage Protocol:** Between cycles, botanicals MUST be stored in an **Airtight Mason Jar** and refrigerated at 40°F (4°C).
+3. **Multi-Cycle Sustainability:** Logic validated for 3 consecutive days of reuse. No Star Anise permitted.
